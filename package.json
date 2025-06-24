@@ -1,0 +1,23 @@
+{
+  "name": "testup",
+  "version": "0.0.0",
+  "description": "package de fonction utilitaire pour les tests",
+  "main": "release.config.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsevenpack/testup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsevenpack/testup/issues"
+  },
+  "homepage": "https://github.com/nsevenpack/testup#readme"
+}
