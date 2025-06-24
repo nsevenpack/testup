@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/nsevenpack/testup/compare/v1.0.0...v1.0.1) (2025-06-24)
+
+
+### Bug Fixes
+
+* add readme ([5809c40](https://github.com/nsevenpack/testup/commit/5809c403f52807afd0d2e4d83da29b369a14ee30))
+
 # 1.0.0 (2025-06-24)
 
 
